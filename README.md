@@ -5,17 +5,17 @@
 
 <p align = "center">
   <i><b>Profiles:</b></i><br><br>
-  <a href="mailto:work.pareekchandra@gmail.com">
-    <img align="center" alt="Chandra@Mail" width="50px" src="mail.svg" />&nbsp;
+  <a href="mailto: work.pareekchandra@gmail.com">
+    <img align="center" alt="Chandra@Mail" target="_blank" width="50px" src="mail.svg" />&nbsp;
   </a>
   <a href="https://www.linkedin.com/in/chandra-pareek-b1b85b17a/">
-    <img align="center" alt="Chandra@LinkedIN" width="50px" src="linkedin.svg" />&nbsp;
+    <img align="center" alt="Chandra@LinkedIN" target="_blank" width="50px" src="linkedin.svg" />&nbsp;
   </a>
   <a href="https://www.instagram.com/chandra_pareek/">
-    <img align="center" alt="Chandra@Instagram" width="50px" src="insta.svg" />&nbsp;
+    <img align="center" alt="Chandra@Instagram" target="_blank" width="50px" src="insta.svg" />&nbsp;
   </a>
   <a href="https://g.dev/chandrapareek">
-    <img align="center" src="google-developers.svg" alt="Chandra@gdev" width="120px">&nbsp;
+    <img align="center" src="google-developers.svg" target="_blank" alt="Chandra@gdev" width="120px">&nbsp;
   </a>
                                                                                     
   <br>

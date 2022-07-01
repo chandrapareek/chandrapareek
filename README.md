@@ -12,7 +12,7 @@
     <img align="center" alt="Chandra@LinkedIN" width="50px" src="linkedin.svg" />&nbsp;
   </a>
   <a href="https://discord.gg/5bCcEMEk8e">
-    <img align="center" alt="Chandra@Discord"50px" src="discord.png" />&nbsp;
+    <img align="center" alt="Chandra@Discord"50px" src="discord.svg" />&nbsp;
   </a>
   <a href="https://www.instagram.com/chandra_pareek/">
     <img align="center" alt="Chandra@Instagram" width="50px" src="insta.svg" />&nbsp;

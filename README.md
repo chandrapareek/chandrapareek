@@ -6,7 +6,7 @@
 <p align = "center">
   <i><b>Profiles:</b></i><br><br>
   <a href="mailto:work.pareekchandra@gmail.com">
-    <img align="center" alt="Chandra@Mail" width="50px" src="assets/handles/gmail.svg" />&nbsp;
+    <img align="center" alt="Chandra@Mail" width="50px" src="mail.svg" />&nbsp;
   </a>
   <a href="https://www.linkedin.com/in/chandra-pareek-b1b85b17a/">
     <img align="center" alt="Chandra@LinkedIN" width="50px" src="assets/handles/linkedin.svg" />&nbsp;

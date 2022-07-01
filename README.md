@@ -9,13 +9,13 @@
     <img align="center" alt="Chandra@Mail" width="50px" src="mail.svg" />&nbsp;
   </a>
   <a href="https://www.linkedin.com/in/chandra-pareek-b1b85b17a/">
-    <img align="center" alt="Chandra@LinkedIN" width="50px" src="assets/handles/linkedin.svg" />&nbsp;
+    <img align="center" alt="Chandra@LinkedIN" width="50px" src="linkedin.svg" />&nbsp;
   </a>
   <a href="https://discord.gg/5bCcEMEk8e">
-    <img align="center" alt="Chandra@Discord"50px" src="assets/handles/discord.png" />&nbsp;
+    <img align="center" alt="Chandra@Discord"50px" src="discord.png" />&nbsp;
   </a>
   <a href="https://www.instagram.com/chandra_pareek/">
-    <img align="center" alt="Chandra@Instagram" width="50px" src="assets/handles/instagram.svg" />&nbsp;
+    <img align="center" alt="Chandra@Instagram" width="50px" src="insta.svg" />&nbsp;
   </a>
   <a href="https://g.dev/chandrapareek">
     <img align="center" src="assets/handles/dev.png" alt="Chandra@gdev" width="50px">&nbsp;

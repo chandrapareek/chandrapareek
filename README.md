@@ -15,7 +15,7 @@
     <img align="center" alt="Chandra@Instagram" width="50px" src="insta.svg" />&nbsp;
   </a>
   <a href="https://g.dev/chandrapareek">
-    <img align="center" src="google-developers.svg" alt="Chandra@gdev" width="50px">&nbsp;
+    <img align="center" src="google-developers.svg" alt="Chandra@gdev" width="120px">&nbsp;
   </a>
                                                                                     
   <br>

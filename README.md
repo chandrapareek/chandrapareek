@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chandra Pareek
 - 👀 I’m interested in Development and Machine Learning
-- 🌱 I’m currently Exploring Machine Learning and AI
+- 🌱 I’m currently Exploring Web and Android development
 - 📫 You can reach to me via Linkedin
 
 <p align = "center">
